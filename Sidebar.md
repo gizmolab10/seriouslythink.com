@@ -8,10 +8,10 @@
 [[select]]  
 [[edit]]  
 [[dots]]  
-[[organize]]  
+[[details]]  
 
 ### Advanced
-[[details]]  
+[[organize]]  
 [[parent]]  
 [[lines]]  
 [[mouse]]  
@@ -20,4 +20,4 @@
 [[data]]  
 
 ### Delete Me
-[original location of content](https://sand-74696.medium.com/what-you-get-d565b064be7b)  
+[originals](https://sand-74696.medium.com/what-you-get-d565b064be7b)  
