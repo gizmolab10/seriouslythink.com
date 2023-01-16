@@ -14,9 +14,7 @@ If an idea contains lots of levels and you find them overwhelming, you can selec
 
 Another way to focus on an idea is to create a bookmark of it. Simply select it and **tap the B key**. The original idea is now the bookmark’s target. Notice the tiny dot within and surrounding its [[dots]], see the figure below. Click on the reveal dot to restore focus onto the target. You can move the bookmark anywhere in your graph or the public or favorites graph.
 
-![](https://miro.medium.com/max/468/1*YuZO8uBLgI7YM1MwFLRwKA.png)
-
-a bookmark, showing a tiny dot inside the reveal dot
+![[bookmark.png]]
 
 No bookmarks are shared. This means no other user can see bookmarks you create in the public graph. If you want them to be shared, please [request](mailto:sand@gizmolab.com) it.
 
@@ -26,11 +24,7 @@ As your graph grows, you may become frustrated trying to find one of your main i
 
 You can focus on the target of each item in the favorites graph: **tap on the ‘ key**. To visit them in the reverse order, **tap on the ; key**. Notice that the drag dot of the current favorite gains a tiny second dot to so indicate. As you browse around the graph away from the current favorite’s target, you can return there by **holding the COMMAND key down and tapping the / key**.
 
-Sometimes the favorites graph gets in the way. It is easy to shrink it, just **click on the left-most dot in the favorites graph**, and the graph will become like the figure below. To make the favorites graph reappear, **click on the reveal dot**.
-
-![](https://miro.medium.com/max/372/1*VMNFigEqbdE3xDUCwX7TNQ.png)
-
-minimal favorites graph
+Sometimes the favorites graph gets in the way. It is easy to hide it, just **click on the title bar immediately above the (small) graph**, and the graph will disappear. Click on the title bar again and it will reappear
 
 ## Focus Ring
 
