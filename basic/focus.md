@@ -1,6 +1,6 @@
 # Focusing Your Thinking
 
-As you add ideas, and empty your mind, you may feel less distracted and stressed. Looking at them all at once, though, is overwhelming and impractical. Seriously contains several ways to hide ideas that aren’t relevant to your current thoughts.
+As you add ideas, and empty your mind, you may feel less distracted and uneasy. Looking at them all at once, though, is overwhelming and impractical. Seriously contains several ways to hide ideas that aren’t relevant to your current thoughts.
 
 ## Focus
 
