@@ -3,10 +3,16 @@
 [[../|home]]  
 [[introduction]]  
 [[focus]]  
+[[selecting]]  
 [[edit]]  
 [[details]]  
 [[dots]]  
 [[organize]]  
+[[mouse]]  
+[[search]]  
+[[parent]]  
+[[more]]  
+[[data]]  
 
 ## delete me asap
 
