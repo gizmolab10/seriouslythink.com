@@ -12,7 +12,7 @@ If an idea contains lots of levels and you find them overwhelming, you can selec
 
 ## Bookmarks
 
-Another way to focus on an idea is to create a bookmark of it. Simply select it and **tap the B key**. The original idea is now the bookmark’s target. Notice the tiny dot inside its [reveal dot](https://medium.com/@sand_74696/dots-and-a-visual-language-fdf1a14fb05c)  [[dots]], see the figure below. Click on the reveal dot to restore focus onto the target. You can move the bookmark anywhere in your graph or the public or favorites graph.
+Another way to focus on an idea is to create a bookmark of it. Simply select it and **tap the B key**. The original idea is now the bookmark’s target. Notice the tiny dot within and surrounding its [[dots]], see the figure below. Click on the reveal dot to restore focus onto the target. You can move the bookmark anywhere in your graph or the public or favorites graph.
 
 ![](https://miro.medium.com/max/468/1*YuZO8uBLgI7YM1MwFLRwKA.png)
 

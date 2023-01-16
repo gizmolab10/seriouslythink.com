@@ -26,4 +26,4 @@ Around this dot may appear **_tiny dots_** (e.g., the two tiny dots around the
 
 The tiny-dots feature is enabled
 
-This tiny-dots feature is enabled by choosing “dots” from the “counts of subordinate ideas show as” Preference in the [[details]] [Details](https://medium.com/@sand_74696/help-inspector-view-c360241147f2) view (see figure, above). In books on communicating information, a rule of thumb: visual cues count, too. Use this selector to discover which cues you like best.
+This tiny-dots feature is enabled by choosing “dots” from the “counts of subordinate ideas show as” Preference in the [[details]] view (see figure, above). In books on communicating information, a rule of thumb: visual cues count, too. Use this selector to discover which cues you like best.
