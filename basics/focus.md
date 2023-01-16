@@ -1,10 +1,10 @@
 # Focusing Your Thinking
 
-As you add ideas, and empty your mind, you may feel less distracted and stressed. Looking at them all at once, though, is overwhelming and impractical. Thoughtful contains several ways to hide ideas that aren’t relevant to your current thoughts.
+As you add ideas, and empty your mind, you may feel less distracted and stressed. Looking at them all at once, though, is overwhelming and impractical. Seriously contains several ways to hide ideas that aren’t relevant to your current thoughts.
 
 ## Focus
 
-For example, imagine the situation where you have an idea deep inside your graph that represents the main idea you want to ponder. The ideas to it’s left, above it and below it, are just distracting clutter. To hide this clutter simply select the main idea and **tap the / key**. Your main idea is now the left-most idea, or more simply, the “focus.” When Thoughtful was first released to the App Store, this feature was unique, perhaps it still is.
+For example, imagine the situation where you have an idea deep inside your graph that represents the main idea you want to ponder. The ideas to it’s left, above it and below it, are just distracting clutter. To hide this clutter simply select the main idea and **tap the / key**. Your main idea is now the left-most idea, or more simply, the “focus.” When Seriously was first released to the App Store, this feature was unique, perhaps it still is.
 
 ## Collapse and Expand
 
@@ -20,7 +20,7 @@ No bookmarks are shared. This means no other user can see bookmarks you create i
 
 ## Favorites
 
-As your graph grows, you may become frustrated trying to find one of your main ideas, so Thoughtful has a way for you to remember them in a favorites graph, located in the upper left corner. Anytime your main idea is the focus, simply select it and **tap the / key** and a bookmark of this idea will appear in the favorites graph.
+As your graph grows, you may become frustrated trying to find one of your main ideas, so Seriously has a way for you to remember them in a favorites graph, located in the upper left corner. Anytime your main idea is the focus, simply select it and **tap the / key** and a bookmark of this idea will appear in the favorites graph.
 
 You can focus on the target of each item in the favorites graph: **tap on the ‘ key**. To visit them in the reverse order, **tap on the ; key**. Notice that the drag dot of the current favorite gains a tiny second dot to so indicate. As you browse around the graph away from the current favorite’s target, you can return there by **holding the COMMAND key down and tapping the / key**.
 
@@ -28,6 +28,6 @@ Sometimes the favorites graph gets in the way. It is easy to hide it, just **cl
 
 ## Focus Ring
 
-Sometimes you may want to go back to the prior focus. Easy: **tap the \[ key**. To get back to what was the current focus, **tap the \] key**. Keep tapping either key and you will get back to where you started. This is the focus ring. It contains all the ideas you focused on since you last launched Thoughtful.
+Sometimes you may want to go back to the prior focus. Easy: **tap the \[ key**. To get back to what was the current focus, **tap the \] key**. Keep tapping either key and you will get back to where you started. This is the focus ring. It contains all the ideas you focused on since you last launched Seriously.
 
 As you work around the focus ring, you may decide one of those ideas is no longer relevant. When it becomes the focus, you can remove it by selecting it and **holding the CONTROL key down and tapping the / key**. The idea prior to it on the ring will become the focus.
