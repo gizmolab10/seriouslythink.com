@@ -3,7 +3,7 @@
 [[../|home]]  
 [[introduction]]  
 [[focus]]  
-[[selecting]]  
+[[select]]  
 [[edit]]  
 [[details]]  
 [[dots]]  
