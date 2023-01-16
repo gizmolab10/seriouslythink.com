@@ -2,13 +2,13 @@
 
 In your graph at least one idea is always selected. This is indicated by the outline encircling it.
 
-![](https://miro.medium.com/max/896/1*8OGbbNcRIAzz5vVIagplzg.png)
+![[select an idea.png]]
 
 ## Focus
 
 By default, the [focus](https://medium.com/@sand_74696/focusing-your-thinking-a53adb16bba) (left-most idea) is selected. Furthermore, no matter which idea is selected, if you click on the background, the focus will be selected.
 
-![](https://miro.medium.com/max/944/1*EGR-PvxiP_qQIiNH2EFhwA.png)
+![[focus.png]]
 
 ## Browse
 
