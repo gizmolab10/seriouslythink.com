@@ -4,7 +4,7 @@
 
 The dot on the left of the text is for for **_selecting_** an idea, and for **_dragging_** it around. To indicate that an idea is selected, the color of the dot is filled in (as in the illustration below).
 
-You can **_browse_** the graph by using the arrow keys. This changes the selecetion.
+You can **_browse_** the map by using the arrow keys. This changes the selecetion.
 
 To **_move an idea_**, select it and then hold the OPTION key down as you use the arrows. You can also click on the dot and drag it.
 
@@ -16,7 +16,7 @@ This dot is sometimes decorated with a line or a tiny dot. A **_vertical line_*
 
 When the dot on the right-side is visible, click on it to **reveal** and hide subordinate child ideas. When an idea has no children, this dot will not appear. Hidden children is indicated by inverting the color, as above.
 
-When this dot contains a little dot at its center, it is a bookmark or a hyper-text link. If you click on a bookmark’s reveal dot, your graph will refocus at the idea from which the bookmark originated. If you click on a hyper-text link’s reveal dot, a web browser will open showing you the content of the hyper-text link.
+When this dot contains a little dot at its center, it is a bookmark or a hyper-text link. If you click on a bookmark’s reveal dot, your map will refocus at the idea from which the bookmark originated. If you click on a hyper-text link’s reveal dot, a web browser will open showing you the content of the hyper-text link.
 
 Around this dot may appear **_tiny dots_** (e.g., the two tiny dots around the reveal dot, in the figure above). These tell you how many children will be revealed when you click it. No dots means only one child.
 

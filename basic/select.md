@@ -1,6 +1,6 @@
 # Selecting Ideas
 
-In your graph at least one idea is always selected. This is indicated by the outline encircling it.
+In your map at least one idea is always selected. This is indicated by the outline encircling it.
 
 ![[select an idea.png]]
 
@@ -12,7 +12,7 @@ By default, the [focus](https://medium.com/@sand_74696/focusing-your-thinking-a
 
 ## Browse
 
-The ARROW keys browse the graph. For example, when you **tap the UP ARROW**, the selection circle will encircle the idea immediately above. However, if your selected idea is already at the tip, the selection will wrap (move to the bottom). **Tapping the DOWN ARROW** will wrap at hte bottom.
+The ARROW keys browse the map. For example, when you **tap the UP ARROW**, the selection circle will encircle the idea immediately above. However, if your selected idea is already at the tip, the selection will wrap (move to the bottom). **Tapping the DOWN ARROW** will wrap at hte bottom.
 
 If you **tap the RIGHT ARROW**, the subordinate ideas will automatically be revealed. This auto-reveal also happens when you **tap the LEFT ARROW** when the focus is selected.
 

@@ -1,6 +1,6 @@
 # Information and Preferences
 
-Three panes give you information and control over your graph. The **_My Data_** describes the size of your graph and at what level within it you are currently focused. It also shows you how many cloud operations are queued up for processing.
+Three panes give you information and control over your map. The **_My Data_** describes the size of your map and at what level within it you are currently focused. It also shows you how many cloud operations are queued up for processing.
 
 ![[details.png]]
 

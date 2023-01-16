@@ -1,21 +1,18 @@
-# Parent / Child Tweaks
+# Parents
 
-Sometimes a subordinate [child] idea may seem more inclusive than its parent. With a single command you can swap them. Select the subordinate idea …
+Sometimes a child idea may strike you as more inclusive than its parent. With a single command you can swap them. Select the subordinate idea (as below)...
 
 ![[parent.png]]
 
-… and **tap the T key**.
+… and **tap the T key** to swap it with its parent. Afterward the parent idea will be selected and occupy the same position in the map, with the former child idea as its current parent (as below). **Tap T again** to restore the original relationship (as above).
 
 ![[parent swap.png]]
 
-**Tap T again** to restore the original relationship.
-
-Sometimes the subordinate idea adds an unnecessary level. You can combine it with its parent with a single command. Again, select the subordinate idea, **hold the COMMAND key down and tap the D key**. The combined idea will begin editing with the former subordinate text selected.
+Sometimes the subordinate idea adds an unnecessary level. You can combine it with its parent with a single command. Again, select the subordinate idea (as above), **hold the COMMAND key down and tap the D key**. Seriously will begin editing the combined idea with the former child text selected (as below).
 
 ![[parent combine.png]]
 
-Sometimes part of an idea makes more sense subordinated. To do this, select that part, as in “combined,” immediately above, **hold the COMMAND key down and tap the D key**. The new subordinate idea will show as bing edited with all text selected.
+Sometimes part of an idea makes more sense subordinated. To do this, select that part (as above), then **hold the COMMAND key down and tap the D key**. The new subordinate idea will show as bing edited with its text selected (as below). **Hold the COMMAND key down and tap the D key, again**, to restore the former state (as above).
 
 ![[child again.png]]
 
-**Hold the COMMAND key down and tap the D key, again**, to restore the former set of ideas (“combined”) and editing state.

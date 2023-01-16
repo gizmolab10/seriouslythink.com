@@ -4,9 +4,9 @@ Every change you make is automatically saved. You don’t need to do anything, e
 
 ## Files
 
-During those times when you aren’t connected, your changes are stored in a local file. Seriously will detect when your resume connection, and will immediately store your unsent changes in the cloud. If you are curious to see the local file, **hold the COMMAND and OPTION keys down and tap the O key** (capital o). You will see four files. Two of them are current, one for each graph (yours and public). The other two are backups, in case file corruption happens while not connected.
+During those times when you aren’t connected, your changes are stored in a local file. Seriously will detect when your resume connection, and will immediately store your unsent changes in the cloud. If you are curious to see the local file, **hold the COMMAND and OPTION keys down and tap the O key** (capital o). You will see four files. Two of them are current, one for each map (yours and public). The other two are backups, in case file corruption happens while not connected.
 
-These files are always kept current for two reasons. (1) If you launch Seriously while not connected, you can still work on your graph. (2) Reading data from the cloud is much slower than from a file, so Seriously reads from the files when it launches and then fetches any more recent data from the cloud.
+These files are always kept current for two reasons. (1) If you launch Seriously while not connected, you can still work on your map. (2) Reading data from the cloud is much slower than from a file, so Seriously reads from the files when it launches and then fetches any more recent data from the cloud.
 
 ## Import and Export
 
@@ -16,4 +16,4 @@ Since Seriously maps have the same structure as an outline, you can save any ide
 
 ## Refresh from Cloud
 
-Although I think this no longer happens, I have seen Seriously fail to show some of my data. I know I did not delete it or move it somewhere else. So I added three features for you to use to re-fetch data from the cloud. (1) **Tap the G key** to fetch the immediate subordinate ideas of the currently selected idea. (2) **Hold the OPTION key and tap the G key** to fetch all of its subordinate ideas. (3) **Hold the COMMAND key and tap the G key** to fetch the entire graph.
+Although I think this no longer happens, I have seen Seriously fail to show some of my data. I know I did not delete it or move it somewhere else. So I added three features for you to use to re-fetch data from the cloud. (1) **Tap the G key** to fetch the immediate subordinate ideas of the currently selected idea. (2) **Hold the OPTION key and tap the G key** to fetch all of its subordinate ideas. (3) **Hold the COMMAND key and tap the G key** to fetch the entire map.

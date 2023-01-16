@@ -4,7 +4,7 @@ Seriously is about ideas you wish to review and use later, some extra features a
 
 ## Color
 
-Color draws the eye and makes things look less plain, so Seriously provides two ways to introduce color into your graph. Select an idea and open the [[details|Preferences]] view and, in the colors panel (shown below), click on the color well labeled “ideas.” Notice as you change the choice of color in the color wheel or palette, the dots and curved lines instantly change to that color. All subordinated ideas will be similarly affected, providing a subtle and pleasant indication of association within the group.
+Color draws the eye and makes things look less plain, so Seriously provides two ways to introduce color into your map. Select an idea and open the [[details|Preferences]] view and, in the colors panel (shown below), click on the color well labeled “ideas.” Notice as you change the choice of color in the color wheel or palette, the dots and curved lines instantly change to that color. All subordinated ideas will be similarly affected, providing a subtle and pleasant indication of association within the group.
 
 ![[colors.png]]
 

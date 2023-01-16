@@ -4,7 +4,7 @@ As you add ideas, and empty your mind, you may feel less distracted and uneasy. 
 
 ## Focus
 
-For example, imagine the situation where you have an idea deep inside your graph that represents the main idea you want to ponder. The ideas to it’s left, above it and below it, are just distracting clutter. To hide this clutter simply select the main idea and **tap the / key**. Your main idea is now the left-most idea, or more simply, the “focus.” When Seriously was first released to the App Store, this feature was unique, perhaps it still is.
+For example, imagine the situation where you have an idea deep inside your map that represents the main idea you want to ponder. The ideas to it’s left, above it and below it, are just distracting clutter. To hide this clutter simply select the main idea and **tap the / key**. Your main idea is now the left-most idea, or more simply, the “focus.” When Seriously was first released to the App Store, this feature was unique, perhaps it still is.
 
 ## Collapse and Expand
 
@@ -12,22 +12,22 @@ If an idea contains lots of levels and you find them overwhelming, you can selec
 
 ## Bookmarks
 
-Another way to focus on an idea is to create a bookmark of it. Simply select it and **tap the B key**. The original idea is now the bookmark’s target. Notice the tiny dot within and surrounding its [[dots]], see the figure below. Click on the reveal dot to restore focus onto the target. You can move the bookmark anywhere in your graph or the public or favorites graph.
+Another way to focus on an idea is to create a bookmark of it. Simply select it and **tap the B key**. The original idea is now the bookmark’s target. Notice the tiny dot within and surrounding its [[dots|reveal dot]], see the figure below. Click on the reveal dot to restore focus onto the target. You can move the bookmark anywhere in your map or the public or favorites map.
 
 ![[bookmark.png]]
 
-No bookmarks are shared. This means no other user can see bookmarks you create in the public graph. If you want them to be shared, please [request](mailto:sand@gizmolab.com) it.
+No bookmarks are shared. This means no other user can see bookmarks you create in the public map. If you want them to be shared, please [request](mailto:sand@gizmolab.com) it.
 
 ## Favorites
 
-As your graph grows, you may become frustrated trying to find one of your main ideas, so Seriously has a way for you to remember them in a favorites graph, located in the upper left corner. Anytime your main idea is the focus, simply select it and **tap the / key** and a bookmark of this idea will appear in the favorites graph.
+As your map grows, you may become frustrated trying to find one of your main ideas, so Seriously has a way for you to remember them in a favorites map, located in the upper left corner. Anytime your main idea is the focus, simply select it and **tap the / key** and a bookmark of this idea will appear in the favorites map.
 
-You can focus on the target of each item in the favorites graph: **tap on the ‘ key**. To visit them in the reverse order, **tap on the ; key**. Notice that the drag dot of the current favorite gains a tiny second dot to so indicate. As you browse around the graph away from the current favorite’s target, you can return there by **holding the COMMAND key down and tapping the / key**.
+You can focus on the target of each item in the favorites map: **tap on the ‘ key**. To visit them in the reverse order, **tap on the ; key**. Notice that the drag dot of the current favorite gains a tiny second dot to so indicate. As you browse around the map away from the current favorite’s target, you can return there by **holding the COMMAND key down and tapping the / key**.
 
-Sometimes the favorites graph gets in the way. It is easy to hide it, just **click on the title bar immediately above the (small) graph**, and the graph will disappear. Click on the title bar again and it will reappear
+Sometimes the favorites map gets in the way. It is easy to hide it, just **click on the title bar immediately above the (small) map**, and the map will disappear. Click on the title bar again and it will reappear.
 
-## Focus Ring
+## Recents
 
-Sometimes you may want to go back to the prior focus. Easy: **tap the \[ key**. To get back to what was the current focus, **tap the \] key**. Keep tapping either key and you will get back to where you started. This is the focus ring. It contains all the ideas you focused on since you last launched Seriously.
+Sometimes you may want to go back to the prior focus. Easy: **tap the \[ key**. To get back to what was the current focus, **tap the ] key**. Keep tapping either key and you will get back to where you started. This is the recents lists. It contains all the ideas you focused on.
 
 As you work around the focus ring, you may decide one of those ideas is no longer relevant. When it becomes the focus, you can remove it by selecting it and **holding the CONTROL key down and tapping the / key**. The idea prior to it on the ring will become the focus.
