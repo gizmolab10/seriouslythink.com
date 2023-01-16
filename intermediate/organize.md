@@ -1,4 +1,4 @@
-# Organizing Ideas
+# Organizing Your Ideas
 
 Rather quickly your ideas become out of date, disordered or cluttered. Seriously makes reorganizing your ideas easy in several ways.
 
