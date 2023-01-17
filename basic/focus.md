@@ -12,7 +12,7 @@ If an idea contains lots of levels and you find them overwhelming, you can selec
 
 ## Bookmarks
 
-Another way to focus on an idea is to create a bookmark of it. Simply select it and **tap the B key**. The original idea is now the bookmark’s target. Notice the tiny dot within and surrounding its [[dots|reveal dot]], see the figure below. Click on the reveal dot to restore focus onto the target. You can move the bookmark anywhere in your map or the public or favorites map.
+Another way to focus on an idea is to create a bookmark of it. Simply select it and **tap the B key**. The original idea is now the bookmark’s target. Notice the dot inside its [[dots|reveal dot]] (as below). Click on the reveal dot to restore focus onto the target. You can move the bookmark anywhere in your map or the public or favorites map.
 
 ![[bookmark.png]]
 
