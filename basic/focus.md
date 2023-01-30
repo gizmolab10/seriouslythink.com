@@ -16,7 +16,7 @@ Another way to focus on an idea is to create a bookmark of it. Simply select it 
 
 ![[bookmark.png]]
 
-No bookmarks are shared. This means no other user can see bookmarks you create in the public map. If you want them to be shared, please [request](mailto:sand@gizmolab.com) it.
+No bookmarks are shared. This means no other user can see bookmarks you create in the public map. If you want them to be shared, please [request](mailto:support@seriouslythink.com) it.
 
 ## Favorites
 

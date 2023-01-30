@@ -11,4 +11,4 @@ Thinking is hard for most of us. Our conscious thinking memory is limited. We fo
 7. Extra features that come in handy: color, grouping, [[lines|lines with titles]], some preferences
 8. Do all this from your mac (and eventually iPhone and iPad), no fussing
 
-Having achieved all of these goals but the last one, I’m keen to share it. Although I’ve hammered at it a lot, it could use some live testing by people like you. So, for now, it is free (perhaps it always will be, I am not making that commitment yet). If you care to say, I want to [hear about your experiences while using it](mailto:sand@gizmolab.com).
+Having achieved all of these goals but the last one, I’m keen to share it. Although I’ve hammered at it a lot, it could use some live testing by people like you. So, for now, it is free (perhaps it always will be, I am not making that commitment yet). If you care to say, I want to [hear about your experiences while using it](mailto:support@seriouslythink.com).
