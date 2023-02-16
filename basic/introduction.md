@@ -6,8 +6,6 @@ The **Map** view is the heart of [[../|seriously]]. The map shows your _curre
 
 ![[introduction.png]]
 
-The **Map** view is the heart of [[../|seriously]]. The map shows your _current_ [[focus]] and favorites shows previous focuses in case you wish return to them. Each map is built of two things: _Ideas_ and the curved _Lines_ that connect them into a hierarchy.
-
 At the top left, a pop up of several views provide [[details]] about what you see and preferences you can configure. Click on the title bar of each to reveal or hide its content.
 
 ![[an idea.png]]
