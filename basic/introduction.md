@@ -1,8 +1,8 @@
 # A Quick Introduction
 
-Here’s a breakdown of the two main views in the [[../|seriously]] app: **Map** on the right and [[details]] at the upper left.
+Here’s a breakdown of the two main views in the seriously app: **Map** on the right and [[details]] at the upper left.
 
-The **Map** view is the heart of [[../|seriously]]. The map shows your _current_ [[focus]] and favorites shows previous focuses in case you wish return to them. Each map is built of two things: _Ideas_ and the curved _Lines_ that connect them into a hierarchy.
+The **Map** view is the heart of seriously. The map shows your _current_ [[focus]] and favorites shows previous focuses in case you wish return to them. Each map is built of two things: _Ideas_ and the curved _Lines_ that connect them into a hierarchy.
 
 ![[introduction.png]]
 
